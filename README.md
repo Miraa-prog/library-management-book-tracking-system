@@ -32,7 +32,7 @@ A relational database system was designed using MySQL to:
 ```
 library-management-book-tracking-system/
 
-│── presentation.pdf
+│── library Management System.pdf
 │
 │── database/
 │     └── library.sql
@@ -41,7 +41,7 @@ library-management-book-tracking-system/
 │     └── queries.sql
 │
 │── diagrams/
-│     ├── er.png
+│     ├── ER diagram.png
 │     ├── schema.png
 ```
 
